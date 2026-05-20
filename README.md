@@ -211,9 +211,9 @@ http://localhost:5000
 
 ## Author
 
-Aryan Verma
+Ujjwal Aggrawal
 
 GitHub:
-https://github.com/Aaru0012
+https://github.com/Ujjwal723
 Live Project Link:
 https://team-task-manager-production-bdf5.up.railway.app/auth/login
